@@ -1,0 +1,7 @@
+[warn] C:\Users\Juho\Desktop\os1\recipebook\src\main\scala\test1.scala:30:14: This catches all Throwables. If this is really intended, use `case _ : Throwable` to clear this warning.
+[warn]         case _ => println("paska.")
+[warn]              ^
+[warn] C:\Users\Juho\Desktop\os1\recipebook\src\main\scala\test1.scala:20:12: This catches all Throwables. If this is really intended, use `case _ : Throwable` to clear this warning.
+[warn]       case _ => println("paska")
+[warn]            ^
+[warn] two warnings found

@@ -1,0 +1,17 @@
+[debug] Packaging C:\Users\Juho\Desktop\os1\recipebook\target\scala-2.13\recipebook_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	connection.class
+[debug] 	  C:\Users\Juho\Desktop\os1\recipebook\target\scala-2.13\classes\connection.class
+[debug] 	test$.class
+[debug] 	  C:\Users\Juho\Desktop\os1\recipebook\target\scala-2.13\classes\test$.class
+[debug] 	test$delayedInit$body.class
+[debug] 	  C:\Users\Juho\Desktop\os1\recipebook\target\scala-2.13\classes\test$delayedInit$body.class
+[debug] 	test.class
+[debug] 	  C:\Users\Juho\Desktop\os1\recipebook\target\scala-2.13\classes\test.class
+[debug] 	test1$.class
+[debug] 	  C:\Users\Juho\Desktop\os1\recipebook\target\scala-2.13\classes\test1$.class
+[debug] 	test1$delayedInit$body.class
+[debug] 	  C:\Users\Juho\Desktop\os1\recipebook\target\scala-2.13\classes\test1$delayedInit$body.class
+[debug] 	test1.class
+[debug] 	  C:\Users\Juho\Desktop\os1\recipebook\target\scala-2.13\classes\test1.class
+[debug] Done packaging.
